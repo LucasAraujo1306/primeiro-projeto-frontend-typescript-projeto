@@ -7,3 +7,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+.horizontal-line {
+  width: 100%;
+  height: 1px;
+  background-color: #BBBBBB;
+}

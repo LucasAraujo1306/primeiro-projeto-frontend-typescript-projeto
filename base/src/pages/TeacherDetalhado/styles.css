@@ -1,0 +1,42 @@
+.detalhar-professor{
+  width: 467px;
+  height: 562px;
+  color: white;
+
+  background-color: #DA0174;
+  border-radius: 16px;
+
+  display: flex;
+  flex-direction:  column;
+  align-items: center;
+  padding:  24px 54px;
+  margin: 92px 0px;
+}
+
+.detalhar-professor h1{
+  font-size: 28px;
+  margin: 24px 0px 12px 0px;
+}
+
+.detalhar-professor span{
+  font-size: 18px;
+  margin-bottom: 49px;
+}
+
+.detalhar-professor h3{
+  margin: 16px 0px 24px 0px;
+  text-decoration: underline;
+  font-size: 22px;
+}
+
+.detalhar-professor p{
+  font-size: 14px;
+  text-align: justify;
+  padding: 5px;
+  max-height: 155px;
+  overflow-y: auto ;
+}
+
+.line {
+  width: 340px;
+}
